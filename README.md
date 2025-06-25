@@ -1,2 +1,27 @@
-# ML_IMOVEIS
-Estudando o Livro de Aurelion Géon, no capítulo 2, é ensinado do inicio ao fim a como realizar um projeto de Machine Learning. Nesse projeto e código é realizado as visualizações e conhecimento sobre o dado, correlações, visualizações, tratamentos de dados numéricos e categóricos, aplicação de Modelo de Regressão Linear e Arvore de Decisão. 
+# 🏠 ML_IMOVEIS
+
+Projeto de aprendizado prático baseado no livro “Hands-On Machine Learning” de Aurélien Géron (Capítulo 2), com o objetivo de aplicar as etapas fundamentais de um pipeline de Machine Learning, desde a análise exploratória até a avaliação de modelos preditivos.
+
+⸻
+
+📘 Objetivo
+
+Este é o meu primeiro projeto de Machine Learning, com foco em:
+	•	Estruturar um projeto de ML completo
+	•	Entender o fluxo de dados e pré-processamento
+	•	Aprofundar o uso de bibliotecas como NumPy, Pandas, Scikit-Learn e TensorFlow
+	•	Aplicar modelos supervisionados de regressão
+
+⸻
+
+🧠 Etapas do Projeto
+	•	📊 Análise exploratória de dados (EDA)
+	•	📈 Visualizações gráficas e correlações
+	•	🧹 Tratamento de dados numéricos e categóricos
+	•	🧪 Separação de dados (80% treino / 20% teste)
+	•	🔍 Treinamento de modelos com Scikit-Learn
+	•	Regressão Linear
+	•	Árvore de Decisão
+	•	Random Forest
+
+O dataset utilizado avalia o preço de venda de imóveis. Durante a análise, observou-se uma forte correlação entre imóveis de maior valor e proximidade com a praia.
